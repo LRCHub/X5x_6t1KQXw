@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ACROSS THE END",
+  "base_artist": "TWO-MIX",
+  "createdAt": "2026-01-03T06:36:16.155969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ACROSS THE END",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/01_ACROSS_THE_END_TWO-MIX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ACROSS THE END",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_01_ACROSS_THE_END_TWO-MIX.txt"
+    }
+  ]
+}
